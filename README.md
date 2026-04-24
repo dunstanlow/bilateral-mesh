@@ -148,12 +148,6 @@ python bilateral_verify.py --verbose
 
 ---
 
-## Papers
-
-Submitted to *Foundations of Physics* (Carlo Rovelli, Editor-in-Chief).
-
----
-
 ## Website
 
 Simulations, visualisations, and papers: [ontologia.co.uk](https://ontologia.co.uk)
