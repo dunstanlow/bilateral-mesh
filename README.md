@@ -71,17 +71,6 @@ AXIOMS
 
 ---
 
-## Pending predictions
-
-| Observable | Bilateral prediction | Experiment | Timeline |
-|-----------|---------------------|------------|----------|
-| Neutrino ordering | Inverted ordering, m₃ = 0 exactly | JUNO / Hyper-K | ~2027–2031 |
-| m₃ (lightest ν mass) | 0.000 eV exactly, m₁ ≈ m₂ ≈ 49.5 meV | Planck / CMB-S4 | ~2030s |
-
-**Falsification:** Normal neutrino ordering confirmed at > 3σ falsifies the framework.
-
----
-
 ## Key derivations
 
 ```
