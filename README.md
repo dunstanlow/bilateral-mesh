@@ -75,10 +75,10 @@ AXIOMS
 
 | Observable | Bilateral prediction | Experiment | Timeline |
 |-----------|---------------------|------------|----------|
-| Neutrino ordering | Normal ordering, m₁ = 0 exactly | JUNO | ~2031 |
-| m₁ (lightest ν mass) | 0.000 eV exactly | PTOLEMY, CMB-S4 | ~2030s |
+| Neutrino ordering | Inverted ordering, m₃ = 0 exactly | JUNO / Hyper-K | ~2027–2031 |
+| m₃ (lightest ν mass) | 0.000 eV exactly, m₁ ≈ m₂ ≈ 49.5 meV | Planck / CMB-S4 | ~2030s |
 
-**Falsification:** Inverted neutrino ordering confirmed at > 3σ falsifies the framework.
+**Falsification:** Normal neutrino ordering confirmed at > 3σ falsifies the framework.
 
 ---
 
